@@ -1,0 +1,14 @@
+{
+    "username": "Test_user",
+    "email": "test_user@test.com",
+    "password": "password",
+    "first_name": "Test_first_name",
+    "last_name": "Test_last_name",
+    "company": "Corp.Inc",
+    "address1": "Location 1",
+    "address2": "Location 2",
+    "state": "Atlantis",
+    "city": "Atlantis City",
+    "zipcode": "123",
+    "phone_number": "123456789"
+}
